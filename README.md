@@ -8,6 +8,8 @@ Have you ever scrolled through reddit, journal posts, deep learning forums or 5 
 
 Is your code not working, even after copy-pasting it from the main source?
 
+Does your example code not include an example on your custom dataset?
+
 Well, not anymore! Do it in Keras includes a lot of famous deep learning techniques in the format of Jupyter Notebooks, all done in the [Keras](https://keras.io/) deep learning library.
 
 All of these architectures are organized in folders, named with the task they represent. Also, they include a folder with tasks for most of the architectures used.
