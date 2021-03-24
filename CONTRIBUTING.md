@@ -6,7 +6,7 @@ Below are the steps for the pull request process, including the changes and the 
 
 ## Pull Request (PR) process
 
-- Remember to name your file using our naming convention which is "architecture" + "task/implementation". A few examples are DCGAN_task, ANN_implementation, DatasetImport_implementation...
+- Remember to name your file using our naming convention which is "architecture" + "task/implementation". A few examples are DCGAN_task, ANNRegression_implementation, TransferLearning_implementation...
 - Update the comments on the notebook explaining the changes
 - The changes in a PR will be merged after the approval from two other developers.
 
