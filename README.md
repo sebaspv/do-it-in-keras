@@ -8,7 +8,7 @@ Have you ever scrolled through reddit, journal posts, deep learning forums or 5 
 
 Is your code not working, even after copy-pasting it from the main source?
 
-Do all of these examples only work on MNIST or CIFAR datasets, making it not possible to use your own dataset?
+Do all of the examples only work on MNIST or CIFAR datasets, making it not possible to use your own dataset?
 
 Well, not anymore! Do it in Keras includes a lot of famous deep learning techniques in the format of Jupyter Notebooks, all done in the [Keras](https://keras.io/) deep learning library.
 
