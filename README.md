@@ -21,5 +21,5 @@ Also, a lot of these tutorials don't specify the library used, or how to use the
 
 ### Main libraries used
 
-- The High level deep learning library [Keras](https://keras.io/)
+- The high level deep learning library [Keras](https://keras.io/)
 - [Jupyter](https://jupyter.org/) notebooks
