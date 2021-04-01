@@ -17,7 +17,7 @@ All of these architectures are organized in folders, named with the task they re
 ### Motivation
 
 Most of the time I try to implement a new architecture, I have to scroll through a lot of blogs, books and courses trying to understand what's going on in the code. 
-Also, a lot of these tutorials don't specify the library used, or how to use the architecture on custom datasets. That's when Do It In Keras comes in, with simple notebooks that implement various use cases with famous deep learning architectures, including tasks to have a further understanding of the architecture.
+Also, a lot of these tutorials don't specify the library used, or how to use the architecture on custom datasets. That's when Do It In Keras comes in, with simple notebooks that implement various use cases (and datasets) with famous deep learning architectures, including tasks to have a further understanding of the architecture.
 
 ### Main libraries used
 
