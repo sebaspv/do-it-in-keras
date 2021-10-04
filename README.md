@@ -2,7 +2,7 @@
 
 # Do it in Keras!
 
-### Modern deep learning architectures and tasks, all implemented in Keras.
+### Modern deep learning architectures and tasks, all implemented in Keras
 
 Have you ever scrolled through reddit, journal posts, deep learning forums or 5 year-old blogs trying to find an example for a task that you want to do?
 
